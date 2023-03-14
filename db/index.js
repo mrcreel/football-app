@@ -1,30 +1,20 @@
 import express from 'express'
 import dotenv from 'dotenv'
-import { createClient } from '@astrajs/collections'
+
+import { schoolsData } from '../rawData/exports.js'
+console.log( schoolsData )
 
 const app = express()
-app.use(express.json())
-app.use(express.urlencoded({ extended: false }))
+app.use( express.json() )
+app.use( express.urlencoded( { extended: false } ) )
 
 dotenv.config()
+const { PORT } = process.env
 
-const {
-  ASTRA_DB_ID,
-  ASTRA_DB_REGION,
-  ASTRA_DB_APPLICATION_TOKEN,
-} = process.env
+app.get( '/', ( req, res ) => {
+  res.send( schoolsData )
+} )
 
-
-const astraClient = await createClient({
-  astraDatabaseId: ASTRA_DB_ID,
-  astraDatabaseRegion: ASTRA_DB_REGION,
-  applicationToken: ASTRA_DB_APPLICATION_TOKEN
-})
-
-app.get('/', (req, res) => {
-  res.send('Index page.')
-})
-
-app.listen(5000, () => {
-  console.log(`Server running on http://localhost:5000`)
-})
+app.listen( PORT, () => {
+  console.log( `Server running on http://localhost:${ PORT }` )
+} )
