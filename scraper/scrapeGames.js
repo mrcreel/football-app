@@ -1,4 +1,3 @@
-const { DateTime } = require("luxon")
 const cheerio = require('cheerio')
 const {
   cleanText,
@@ -7,7 +6,7 @@ const {
   writeToJson
 } = require('./functions')
 
-const schoolsData = require('./rawData/schools.json')
+const schoolsData = require('../rawData/schools.json')
 const schoolUrls = extractValue(schoolsData, 'url')
 const pages = schoolUrls.map(url => `/Teams/${url}_Scores.htm`)
 
@@ -28,8 +27,7 @@ getAllData(pages)
             const siblings = $(element).nextAll()
 
             gamesRawData.push({
-              gameDate: DateTime.fromFormat($(element).text(), "mm/dd/yy").toLocaleString(DateTime.DATE_SHORT),
-              // gameDate: $(element).text(),
+              gameDate: $(element).text().trim(),
               gameLocation: $(siblings[0]).text().trim(),
               gameOpponent: cleanText($(siblings[1])),
               gameisDistrictGame: $(siblings[2]).text().trim() == '*',
@@ -80,26 +78,25 @@ getAllData(pages)
               if (gamesRawData[(row * 64) + (gm * 4) + col].gameDate == "Invalid DateTime") {
                 gamesRawData[(row * 64) + (gm * 4) + col].gameDate = ''
               }
-              console.log(`Writing ${schoolUrls[c]}`)
               gamesData.push({
-                gameSeason: parseInt(seasonsYears[row * 4 + col]),
-                gameSeasonWeek: gm + 1,
-                gameDate: gamesRawData[(row * 64) + (gm * 4) + col].gameDate,
-                gameTeamName: seasonsTeamNames[row * 4 + col],
-                gameTeamUrl: schoolUrls[c],
-                gameTeamMascot: seasonsTeamMascots[row * 4 + col],
-                gameLocation: gamesRawData[(row * 64) + (gm * 4) + col].gameLocation,
-                gameOpponentName: gamesRawData[(row * 64) + (gm * 4) + col].gameOpponent,
-                gameisDistrictGame: gamesRawData[(row * 64) + (gm * 4) + col].gameisDistrictGame,
-                gameResult: gamesRawData[(row * 64) + (gm * 4) + col].gameResult,
-                gamePointsFor: gamesRawData[(row * 64) + (gm * 4) + col].gamePointsFor,
-                gamePointsAgainst: gamesRawData[(row * 64) + (gm * 4) + col].gamePointsAgainst,
+                season: parseInt(seasonsYears[row * 4 + col]),
+                wWeek: gm + 1,
+                date: gamesRawData[(row * 64) + (gm * 4) + col].gameDate,
+                name: seasonsTeamNames[row * 4 + col],
+                slug: schoolUrls[c],
+                mascot: seasonsTeamMascots[row * 4 + col],
+                location: gamesRawData[(row * 64) + (gm * 4) + col].gameLocation,
+                opponent: gamesRawData[(row * 64) + (gm * 4) + col].gameOpponent,
+                isDistrict: gamesRawData[(row * 64) + (gm * 4) + col].gameisDistrictGame,
+                result: gamesRawData[(row * 64) + (gm * 4) + col].gameResult,
+                pointsFor: gamesRawData[(row * 64) + (gm * 4) + col].gamePointsFor,
+                pointsAgainst: gamesRawData[(row * 64) + (gm * 4) + col].gamePointsAgainst,
               })
             }
           }
         }
       }
-
+      console.log('Writing:',gamesData[0].name)
       c++
     })
     writeToJson(gamesData, 'games')

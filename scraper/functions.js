@@ -4,9 +4,10 @@ require('dotenv').config()
 
 const { BASE_URL } = process.env
 
+
 const writeToJson = (array, file) => {
   const data = JSON.stringify(array)
-  fs.writeFileSync(`rawData/${file}.json`, data)
+  fs.writeFileSync(`../rawData/${file}.json`, data)
 }
 
 const dynamicSort = (property) => {
