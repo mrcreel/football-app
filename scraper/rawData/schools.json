@@ -1,0 +1,2102 @@
+[
+  {
+    "slug": "Aberdeen",
+    "name": "Aberdeen",
+    "inState": true
+  },
+  {
+    "slug": "Ackerman",
+    "name": "Ackerman",
+    "inState": true
+  },
+  {
+    "slug": "Adamscountychristian",
+    "name": "Adams County Christian",
+    "inState": true
+  },
+  {
+    "slug": "Alcorncentral",
+    "name": "Alcorn Central",
+    "inState": true
+  },
+  {
+    "slug": "Alexander",
+    "name": "Alexander",
+    "inState": true
+  },
+  {
+    "slug": "Alphachristian",
+    "name": "Alpha Christian",
+    "inState": true
+  },
+  {
+    "slug": "Amite",
+    "name": "Amite",
+    "inState": true
+  },
+  {
+    "slug": "Amitecounty",
+    "name": "Amite County",
+    "inState": true
+  },
+  {
+    "slug": "Amory",
+    "name": "Amory",
+    "inState": true
+  },
+  {
+    "slug": "Anguilla",
+    "name": "Anguilla",
+    "inState": true
+  },
+  {
+    "slug": "Ashland",
+    "name": "Ashland",
+    "inState": true
+  },
+  {
+    "slug": "Bailey",
+    "name": "Bailey",
+    "inState": true
+  },
+  {
+    "slug": "Baldwyn",
+    "name": "Baldwyn",
+    "inState": true
+  },
+  {
+    "slug": "Bassfield",
+    "name": "Bassfield",
+    "inState": true
+  },
+  {
+    "slug": "Bay",
+    "name": "Bay",
+    "inState": true
+  },
+  {
+    "slug": "Bayouacademy",
+    "name": "Bayou Academy",
+    "inState": true
+  },
+  {
+    "slug": "Baysprings",
+    "name": "Bay Springs",
+    "inState": true
+  },
+  {
+    "slug": "Beatfour",
+    "name": "Beat Four",
+    "inState": true
+  },
+  {
+    "slug": "Beaumont",
+    "name": "Beaumont",
+    "inState": true
+  },
+  {
+    "slug": "Belmont",
+    "name": "Belmont",
+    "inState": true
+  },
+  {
+    "slug": "Bensfordchristianla",
+    "name": "Ben's Ford Christian (LA)",
+    "inState": true
+  },
+  {
+    "slug": "Benton",
+    "name": "Benton",
+    "inState": true
+  },
+  {
+    "slug": "Bentonacademy",
+    "name": "Benton Academy",
+    "inState": true
+  },
+  {
+    "slug": "Bentoncounty",
+    "name": "Benton County",
+    "inState": true
+  },
+  {
+    "slug": "Bentonia",
+    "name": "Bentonia",
+    "inState": true
+  },
+  {
+    "slug": "Beulahhubbard",
+    "name": "Beulah-Hubbard",
+    "inState": true
+  },
+  {
+    "slug": "Biggersville",
+    "name": "Biggersville",
+    "inState": true
+  },
+  {
+    "slug": "Biloxi",
+    "name": "Biloxi",
+    "inState": true
+  },
+  {
+    "slug": "Bluemountain",
+    "name": "Blue Mountain",
+    "inState": true
+  },
+  {
+    "slug": "Boguechitto",
+    "name": "Bogue Chitto",
+    "inState": true
+  },
+  {
+    "slug": "Booneville",
+    "name": "Booneville",
+    "inState": true
+  },
+  {
+    "slug": "Bowlinggreenla",
+    "name": "Bowling Green (LA)",
+    "inState": true
+  },
+  {
+    "slug": "Brandon",
+    "name": "Brandon",
+    "inState": true
+  },
+  {
+    "slug": "Briarfieldacademyla",
+    "name": "Briarfield Academy (LA)",
+    "inState": true
+  },
+  {
+    "slug": "Broadstreet",
+    "name": "Broad Street",
+    "inState": true
+  },
+  {
+    "slug": "Brookhaven",
+    "name": "Brookhaven",
+    "inState": true
+  },
+  {
+    "slug": "Brookhavenacademy",
+    "name": "Brookhaven Academy",
+    "inState": true
+  },
+  {
+    "slug": "Brooks",
+    "name": "Brooks",
+    "inState": true
+  },
+  {
+    "slug": "Bruce",
+    "name": "Bruce",
+    "inState": true
+  },
+  {
+    "slug": "Buckatunna",
+    "name": "Buckatunna",
+    "inState": true
+  },
+  {
+    "slug": "Burnsville",
+    "name": "Burnsville",
+    "inState": true
+  },
+  {
+    "slug": "Byers",
+    "name": "Byers",
+    "inState": true
+  },
+  {
+    "slug": "Byhalia",
+    "name": "Byhalia",
+    "inState": true
+  },
+  {
+    "slug": "Caldwell",
+    "name": "Caldwell",
+    "inState": true
+  },
+  {
+    "slug": "Caledonia",
+    "name": "Caledonia",
+    "inState": true
+  },
+  {
+    "slug": "Calhounacademy",
+    "name": "Calhoun Academy",
+    "inState": true
+  },
+  {
+    "slug": "Calhouncity",
+    "name": "Calhoun City",
+    "inState": true
+  },
+  {
+    "slug": "Callaway",
+    "name": "Callaway",
+    "inState": true
+  },
+  {
+    "slug": "Calvarychristian",
+    "name": "Calvary Christian",
+    "inState": true
+  },
+  {
+    "slug": "Canton",
+    "name": "Canton",
+    "inState": true
+  },
+  {
+    "slug": "Cantonacademy",
+    "name": "Canton Academy",
+    "inState": true
+  },
+  {
+    "slug": "Carrollacademy",
+    "name": "Carroll Academy",
+    "inState": true
+  },
+  {
+    "slug": "Carthage",
+    "name": "Carthage",
+    "inState": true
+  },
+  {
+    "slug": "Cathedral",
+    "name": "Cathedral",
+    "inState": true
+  },
+  {
+    "slug": "Centerhill",
+    "name": "Center Hill",
+    "inState": true
+  },
+  {
+    "slug": "Centralacademy",
+    "name": "Central Academy",
+    "inState": true
+  },
+  {
+    "slug": "Centralhindsacademy",
+    "name": "Central Hinds Academy",
+    "inState": true
+  },
+  {
+    "slug": "Centralholmeschristian",
+    "name": "Central Holmes Christian",
+    "inState": true
+  },
+  {
+    "slug": "Centralprivatela",
+    "name": "Central Private (LA)",
+    "inState": true
+  },
+  {
+    "slug": "Centrevilleacademy",
+    "name": "Centreville Academy",
+    "inState": true
+  },
+  {
+    "slug": "Chamberlainhuntacademy",
+    "name": "Chamberlain-Hunt Academy",
+    "inState": true
+  },
+  {
+    "slug": "Charleston",
+    "name": "Charleston",
+    "inState": true
+  },
+  {
+    "slug": "Choctawcentral",
+    "name": "Choctaw Central",
+    "inState": true
+  },
+  {
+    "slug": "Choctawcounty",
+    "name": "Choctaw County",
+    "inState": true
+  },
+  {
+    "slug": "Christiancollegiateacademy",
+    "name": "Christian Collegiate Academy",
+    "inState": true
+  },
+  {
+    "slug": "Christmissionaryindustrial",
+    "name": "Christ Missionary & Industrial",
+    "inState": true
+  },
+  {
+    "slug": "Claiborneacademyla",
+    "name": "Claiborne Academy (LA)",
+    "inState": true
+  },
+  {
+    "slug": "Clara",
+    "name": "Clara",
+    "inState": true
+  },
+  {
+    "slug": "Clarkdale",
+    "name": "Clarkdale",
+    "inState": true
+  },
+  {
+    "slug": "Clarksdale",
+    "name": "Clarksdale",
+    "inState": true
+  },
+  {
+    "slug": "Cleveland",
+    "name": "Cleveland",
+    "inState": true
+  },
+  {
+    "slug": "Clevelandcentral",
+    "name": "Cleveland Central",
+    "inState": true
+  },
+  {
+    "slug": "Clinton",
+    "name": "Clinton",
+    "inState": true
+  },
+  {
+    "slug": "Clintonchristianacademy",
+    "name": "Clinton Christian Academy",
+    "inState": true
+  },
+  {
+    "slug": "Coahomaahs",
+    "name": "Coahoma Early College",
+    "inState": true
+  },
+  {
+    "slug": "Coahomacounty",
+    "name": "Coahoma County",
+    "inState": true
+  },
+  {
+    "slug": "Coffeeville",
+    "name": "Coffeeville",
+    "inState": true
+  },
+  {
+    "slug": "Coldwater",
+    "name": "Coldwater",
+    "inState": true
+  },
+  {
+    "slug": "Collins",
+    "name": "Collins",
+    "inState": true
+  },
+  {
+    "slug": "Columbia",
+    "name": "Columbia",
+    "inState": true
+  },
+  {
+    "slug": "Columbiaacademy",
+    "name": "Columbia Academy",
+    "inState": true
+  },
+  {
+    "slug": "Columbus",
+    "name": "Columbus",
+    "inState": true
+  },
+  {
+    "slug": "Columbuschristianacademy",
+    "name": "Columbus Christian Academy",
+    "inState": true
+  },
+  {
+    "slug": "Copiahacademy",
+    "name": "Copiah Academy",
+    "inState": true
+  },
+  {
+    "slug": "Corinth",
+    "name": "Corinth",
+    "inState": true
+  },
+  {
+    "slug": "Crystalsprings",
+    "name": "Crystal Springs",
+    "inState": true
+  },
+  {
+    "slug": "Cumberland",
+    "name": "Cumberland",
+    "inState": true
+  },
+  {
+    "slug": "Decatur",
+    "name": "Decatur",
+    "inState": true
+  },
+  {
+    "slug": "Deercreek",
+    "name": "Deer Creek",
+    "inState": true
+  },
+  {
+    "slug": "Deltaacademy",
+    "name": "Delta Academy",
+    "inState": true
+  },
+  {
+    "slug": "Deltastreetsacademy",
+    "name": "Delta Streets Academy",
+    "inState": true
+  },
+  {
+    "slug": "Desotoar",
+    "name": "DeSoto (AR)",
+    "inState": true
+  },
+  {
+    "slug": "Desotocentral",
+    "name": "DeSoto Central",
+    "inState": true
+  },
+  {
+    "slug": "Dexter",
+    "name": "Dexter",
+    "inState": true
+  },
+  {
+    "slug": "Diberville",
+    "name": "D'Iberville",
+    "inState": true
+  },
+  {
+    "slug": "Drewhunter",
+    "name": "Drew-Hunter",
+    "inState": true
+  },
+  {
+    "slug": "Durant",
+    "name": "Durant",
+    "inState": true
+  },
+  {
+    "slug": "Eastcentral",
+    "name": "East Central",
+    "inState": true
+  },
+  {
+    "slug": "Eastflora",
+    "name": "East Flora",
+    "inState": true
+  },
+  {
+    "slug": "Eastholmesacademy",
+    "name": "East Holmes Academy",
+    "inState": true
+  },
+  {
+    "slug": "Eastmarion",
+    "name": "East Marion",
+    "inState": true
+  },
+  {
+    "slug": "Eastoktibbehacounty",
+    "name": "East Oktibbeha County",
+    "inState": true
+  },
+  {
+    "slug": "Eastrankinacademy",
+    "name": "East Rankin Academy",
+    "inState": true
+  },
+  {
+    "slug": "Eastside",
+    "name": "East Side",
+    "inState": true
+  },
+  {
+    "slug": "Eastunion",
+    "name": "East Union",
+    "inState": true
+  },
+  {
+    "slug": "Eastwebster",
+    "name": "East Webster",
+    "inState": true
+  },
+  {
+    "slug": "Edinburg",
+    "name": "Edinburg",
+    "inState": true
+  },
+  {
+    "slug": "Elzy",
+    "name": "Elzy",
+    "inState": true
+  },
+  {
+    "slug": "Enterpriseclarke",
+    "name": "Enterprise (Clarke)",
+    "inState": true
+  },
+  {
+    "slug": "Enterpriselincoln",
+    "name": "Enterprise (Lincoln)",
+    "inState": true
+  },
+  {
+    "slug": "Ethel",
+    "name": "Ethel",
+    "inState": true
+  },
+  {
+    "slug": "Eupora",
+    "name": "Eupora",
+    "inState": true
+  },
+  {
+    "slug": "Faithchristian",
+    "name": "Faith Christian",
+    "inState": true
+  },
+  {
+    "slug": "Falkner",
+    "name": "Falkner",
+    "inState": true
+  },
+  {
+    "slug": "Florence",
+    "name": "Florence",
+    "inState": true
+  },
+  {
+    "slug": "Forest",
+    "name": "Forest",
+    "inState": true
+  },
+  {
+    "slug": "Foresthill",
+    "name": "Forest Hill",
+    "inState": true
+  },
+  {
+    "slug": "Forrestcountyahs",
+    "name": "Forrest County AHS",
+    "inState": true
+  },
+  {
+    "slug": "Franklinacademyla",
+    "name": "Franklin Academy (LA)",
+    "inState": true
+  },
+  {
+    "slug": "Franklincounty",
+    "name": "Franklin County",
+    "inState": true
+  },
+  {
+    "slug": "Frenchcampacademy",
+    "name": "French Camp Academy",
+    "inState": true
+  },
+  {
+    "slug": "Friendshipchristianacademy",
+    "name": "Friendship Christian Academy",
+    "inState": true
+  },
+  {
+    "slug": "Gautier",
+    "name": "Gautier",
+    "inState": true
+  },
+  {
+    "slug": "Gentry",
+    "name": "Gentry",
+    "inState": true
+  },
+  {
+    "slug": "George",
+    "name": "George",
+    "inState": true
+  },
+  {
+    "slug": "Georgecounty",
+    "name": "George County",
+    "inState": true
+  },
+  {
+    "slug": "Georgei",
+    "name": "George (Old)",
+    "inState": true
+  },
+  {
+    "slug": "Germantown",
+    "name": "Germantown",
+    "inState": true
+  },
+  {
+    "slug": "Glenbrookla",
+    "name": "Glenbrook (LA)",
+    "inState": true
+  },
+  {
+    "slug": "Gloster",
+    "name": "Gloster",
+    "inState": true
+  },
+  {
+    "slug": "Grawoodchristianla",
+    "name": "Grawood Christian (LA)",
+    "inState": true
+  },
+  {
+    "slug": "Greenecounty",
+    "name": "Greene County",
+    "inState": true
+  },
+  {
+    "slug": "Greenville",
+    "name": "Greenville",
+    "inState": true
+  },
+  {
+    "slug": "Greenvillechristian",
+    "name": "Greenville Christian",
+    "inState": true
+  },
+  {
+    "slug": "Greenwood",
+    "name": "Greenwood",
+    "inState": true
+  },
+  {
+    "slug": "Grenada",
+    "name": "Grenada",
+    "inState": true
+  },
+  {
+    "slug": "Gulfport",
+    "name": "Gulfport",
+    "inState": true
+  },
+  {
+    "slug": "Hamilton",
+    "name": "Hamilton",
+    "inState": true
+  },
+  {
+    "slug": "Hancock",
+    "name": "Hancock",
+    "inState": true
+  },
+  {
+    "slug": "Harrisoncentral",
+    "name": "Harrison Central",
+    "inState": true
+  },
+  {
+    "slug": "Hartfieldacademy",
+    "name": "Hartfield Academy",
+    "inState": true
+  },
+  {
+    "slug": "Hatley",
+    "name": "Hatley",
+    "inState": true
+  },
+  {
+    "slug": "Hattiesburg",
+    "name": "Hattiesburg",
+    "inState": true
+  },
+  {
+    "slug": "Hazlehurst",
+    "name": "Hazlehurst",
+    "inState": true
+  },
+  {
+    "slug": "Hebronchristian",
+    "name": "Hebron Christian",
+    "inState": true
+  },
+  {
+    "slug": "Heidelberg",
+    "name": "Heidelberg",
+    "inState": true
+  },
+  {
+    "slug": "Heidelbergacademy",
+    "name": "Heidelberg Academy",
+    "inState": true
+  },
+  {
+    "slug": "Heritageacademy",
+    "name": "Heritage Academy",
+    "inState": true
+  },
+  {
+    "slug": "Hernando",
+    "name": "Hernando",
+    "inState": true
+  },
+  {
+    "slug": "Hickory",
+    "name": "Hickory",
+    "inState": true
+  },
+  {
+    "slug": "Hickoryflat",
+    "name": "Hickory Flat",
+    "inState": true
+  },
+  {
+    "slug": "Hill",
+    "name": "Hill",
+    "inState": true
+  },
+  {
+    "slug": "Hillcrestchristian",
+    "name": "Hillcrest Christian",
+    "inState": true
+  },
+  {
+    "slug": "Hindscountyahs",
+    "name": "Hinds County AHS",
+    "inState": true
+  },
+  {
+    "slug": "Hollysprings",
+    "name": "Holly Springs",
+    "inState": true
+  },
+  {
+    "slug": "Holmescountycentral",
+    "name": "Holmes County Central",
+    "inState": true
+  },
+  {
+    "slug": "Hornlake",
+    "name": "Horn Lake",
+    "inState": true
+  },
+  {
+    "slug": "Houlka",
+    "name": "Houlka",
+    "inState": true
+  },
+  {
+    "slug": "Houston",
+    "name": "Houston",
+    "inState": true
+  },
+  {
+    "slug": "Humphreysacademy",
+    "name": "Humphreys Academy",
+    "inState": true
+  },
+  {
+    "slug": "Humphreyscounty",
+    "name": "Humphreys County",
+    "inState": true
+  },
+  {
+    "slug": "Huntingtonla",
+    "name": "Huntington (LA)",
+    "inState": true
+  },
+  {
+    "slug": "Independence",
+    "name": "Independence",
+    "inState": true
+  },
+  {
+    "slug": "Indianolaacademy",
+    "name": "Indianola Academy",
+    "inState": true
+  },
+  {
+    "slug": "Itawambaahs",
+    "name": "Itawamba AHS",
+    "inState": true
+  },
+  {
+    "slug": "Iuka",
+    "name": "Iuka",
+    "inState": true
+  },
+  {
+    "slug": "Jacksonacademy",
+    "name": "Jackson Academy",
+    "inState": true
+  },
+  {
+    "slug": "Jacksonprep",
+    "name": "Jackson Prep",
+    "inState": true
+  },
+  {
+    "slug": "Jeffersoncounty",
+    "name": "Jefferson County",
+    "inState": true
+  },
+  {
+    "slug": "Jeffersondaviscounty",
+    "name": "Jefferson Davis County",
+    "inState": true
+  },
+  {
+    "slug": "Jumpertown",
+    "name": "Jumpertown",
+    "inState": true
+  },
+  {
+    "slug": "Kemperacademy",
+    "name": "Kemper Academy",
+    "inState": true
+  },
+  {
+    "slug": "Kempercounty",
+    "name": "Kemper County",
+    "inState": true
+  },
+  {
+    "slug": "Kennedy",
+    "name": "Kennedy",
+    "inState": true
+  },
+  {
+    "slug": "Kingscourtchristianacademy",
+    "name": "King's Court Christian Academy",
+    "inState": true
+  },
+  {
+    "slug": "Kirkacademy",
+    "name": "Kirk Academy",
+    "inState": true
+  },
+  {
+    "slug": "Kosciusko",
+    "name": "Kosciusko",
+    "inState": true
+  },
+  {
+    "slug": "Kossuth",
+    "name": "Kossuth",
+    "inState": true
+  },
+  {
+    "slug": "Lafayette",
+    "name": "Lafayette",
+    "inState": true
+  },
+  {
+    "slug": "Lake",
+    "name": "Lake",
+    "inState": true
+  },
+  {
+    "slug": "Lakecormorant",
+    "name": "Lake Cormorant",
+    "inState": true
+  },
+  {
+    "slug": "Lamar",
+    "name": "Lamar",
+    "inState": true
+  },
+  {
+    "slug": "Lanier",
+    "name": "Lanier",
+    "inState": true
+  },
+  {
+    "slug": "Laurel",
+    "name": "Laurel",
+    "inState": true
+  },
+  {
+    "slug": "Lawrencecounty",
+    "name": "Lawrence County",
+    "inState": true
+  },
+  {
+    "slug": "Leakeacademy",
+    "name": "Leake Academy",
+    "inState": true
+  },
+  {
+    "slug": "Leakecentral",
+    "name": "Leake Central",
+    "inState": true
+  },
+  {
+    "slug": "Leakecounty",
+    "name": "Leake County",
+    "inState": true
+  },
+  {
+    "slug": "Leakesville",
+    "name": "Leakesville",
+    "inState": true
+  },
+  {
+    "slug": "Lee",
+    "name": "Lee",
+    "inState": true
+  },
+  {
+    "slug": "Leeacademy",
+    "name": "Lee Academy",
+    "inState": true
+  },
+  {
+    "slug": "Leeacademyar",
+    "name": "Lee Academy (AR)",
+    "inState": true
+  },
+  {
+    "slug": "Leflorecounty",
+    "name": "Leflore County",
+    "inState": true
+  },
+  {
+    "slug": "Leland",
+    "name": "Leland",
+    "inState": true
+  },
+  {
+    "slug": "Lewisburg",
+    "name": "Lewisburg",
+    "inState": true
+  },
+  {
+    "slug": "Libertycentral",
+    "name": "Liberty Central",
+    "inState": true
+  },
+  {
+    "slug": "Longbeach",
+    "name": "Long Beach",
+    "inState": true
+  },
+  {
+    "slug": "Louisville",
+    "name": "Louisville",
+    "inState": true
+  },
+  {
+    "slug": "Loydstar",
+    "name": "Loyd Star",
+    "inState": true
+  },
+  {
+    "slug": "Lumberton",
+    "name": "Lumberton",
+    "inState": true
+  },
+  {
+    "slug": "MSD",
+    "name": "Mississippi School for the Deaf",
+    "inState": true
+  },
+  {
+    "slug": "Maben",
+    "name": "Maben",
+    "inState": true
+  },
+  {
+    "slug": "Madisoncentral",
+    "name": "Madison Central",
+    "inState": true
+  },
+  {
+    "slug": "Madisonridgeland",
+    "name": "Madison-Ridgeland",
+    "inState": true
+  },
+  {
+    "slug": "Madisonridgelandacademy",
+    "name": "Madison-Ridgeland Academy",
+    "inState": true
+  },
+  {
+    "slug": "Magee",
+    "name": "Magee",
+    "inState": true
+  },
+  {
+    "slug": "Magnoliaheights",
+    "name": "Magnolia Heights",
+    "inState": true
+  },
+  {
+    "slug": "Manchesteracademy",
+    "name": "Manchester Academy",
+    "inState": true
+  },
+  {
+    "slug": "Mantachie",
+    "name": "Mantachie",
+    "inState": true
+  },
+  {
+    "slug": "Marshall",
+    "name": "Marshall",
+    "inState": true
+  },
+  {
+    "slug": "Marshallacademy",
+    "name": "Marshall Academy",
+    "inState": true
+  },
+  {
+    "slug": "Marvellacademyar",
+    "name": "Marvell Academy (AR)",
+    "inState": true
+  },
+  {
+    "slug": "Mathiston",
+    "name": "Mathiston",
+    "inState": true
+  },
+  {
+    "slug": "Mcadams",
+    "name": "McAdams",
+    "inState": true
+  },
+  {
+    "slug": "Mcclain",
+    "name": "McClain",
+    "inState": true
+  },
+  {
+    "slug": "Mccomb",
+    "name": "McComb",
+    "inState": true
+  },
+  {
+    "slug": "Mclain",
+    "name": "McLain",
+    "inState": true
+  },
+  {
+    "slug": "Mclaurin",
+    "name": "McLaurin",
+    "inState": true
+  },
+  {
+    "slug": "Mendenhall",
+    "name": "Mendenhall",
+    "inState": true
+  },
+  {
+    "slug": "Mercycross",
+    "name": "Mercy Cross",
+    "inState": true
+  },
+  {
+    "slug": "Meridian",
+    "name": "Meridian",
+    "inState": true
+  },
+  {
+    "slug": "Mize",
+    "name": "Mize",
+    "inState": true
+  },
+  {
+    "slug": "Montgomerycounty",
+    "name": "Montgomery County",
+    "inState": true
+  },
+  {
+    "slug": "Monticello",
+    "name": "Monticello",
+    "inState": true
+  },
+  {
+    "slug": "Mooreville",
+    "name": "Mooreville",
+    "inState": true
+  },
+  {
+    "slug": "Morton",
+    "name": "Morton",
+    "inState": true
+  },
+  {
+    "slug": "Mosspoint",
+    "name": "Moss Point",
+    "inState": true
+  },
+  {
+    "slug": "Mountolive",
+    "name": "Mount Olive",
+    "inState": true
+  },
+  {
+    "slug": "Mountsaluschristian",
+    "name": "Mount Salus Christian",
+    "inState": true
+  },
+  {
+    "slug": "Murrah",
+    "name": "Murrah",
+    "inState": true
+  },
+  {
+    "slug": "Myrtle",
+    "name": "Myrtle",
+    "inState": true
+  },
+  {
+    "slug": "Nanihwaiya",
+    "name": "Nanih Waiya",
+    "inState": true
+  },
+  {
+    "slug": "Natchez",
+    "name": "Natchez",
+    "inState": true
+  },
+  {
+    "slug": "Neshobacentral",
+    "name": "Neshoba Central",
+    "inState": true
+  },
+  {
+    "slug": "Nettleton",
+    "name": "Nettleton",
+    "inState": true
+  },
+  {
+    "slug": "Newalbany",
+    "name": "New Albany",
+    "inState": true
+  },
+  {
+    "slug": "Newaugusta",
+    "name": "New Augusta",
+    "inState": true
+  },
+  {
+    "slug": "Newhebron",
+    "name": "New Hebron",
+    "inState": true
+  },
+  {
+    "slug": "Newhope",
+    "name": "New Hope",
+    "inState": true
+  },
+  {
+    "slug": "Newsite",
+    "name": "New Site",
+    "inState": true
+  },
+  {
+    "slug": "Newsitewheeler",
+    "name": "New Site-Wheeler",
+    "inState": true
+  },
+  {
+    "slug": "Newton",
+    "name": "Newton",
+    "inState": true
+  },
+  {
+    "slug": "Newtoncounty",
+    "name": "Newton County",
+    "inState": true
+  },
+  {
+    "slug": "Newtoncountyacademy",
+    "name": "Newton County Academy",
+    "inState": true
+  },
+  {
+    "slug": "Northdelta",
+    "name": "North Delta",
+    "inState": true
+  },
+  {
+    "slug": "Northeastjones",
+    "name": "Northeast Jones",
+    "inState": true
+  },
+  {
+    "slug": "Northeastlauderdale",
+    "name": "Northeast Lauderdale",
+    "inState": true
+  },
+  {
+    "slug": "Northforrest",
+    "name": "North Forrest",
+    "inState": true
+  },
+  {
+    "slug": "Northnatchez",
+    "name": "North Natchez",
+    "inState": true
+  },
+  {
+    "slug": "Northpanola",
+    "name": "North Panola",
+    "inState": true
+  },
+  {
+    "slug": "Northpike",
+    "name": "North Pike",
+    "inState": true
+  },
+  {
+    "slug": "Northpointchristian",
+    "name": "Northpoint Christian",
+    "inState": true
+  },
+  {
+    "slug": "Northpontotoc",
+    "name": "North Pontotoc",
+    "inState": true
+  },
+  {
+    "slug": "Northside",
+    "name": "Northside",
+    "inState": true
+  },
+  {
+    "slug": "Northsunfloweracademy",
+    "name": "North Sunflower Academy",
+    "inState": true
+  },
+  {
+    "slug": "Northwestrankin",
+    "name": "Northwest Rankin",
+    "inState": true
+  },
+  {
+    "slug": "Noxapater",
+    "name": "Noxapater",
+    "inState": true
+  },
+  {
+    "slug": "Noxubeecounty",
+    "name": "Noxubee County",
+    "inState": true
+  },
+  {
+    "slug": "Oakforestacademyla",
+    "name": "Oak Forest Academy (LA)",
+    "inState": true
+  },
+  {
+    "slug": "Oakgrove",
+    "name": "Oak Grove",
+    "inState": true
+  },
+  {
+    "slug": "Oakhillacademy",
+    "name": "Oak Hill Academy",
+    "inState": true
+  },
+  {
+    "slug": "Obannon",
+    "name": "O'Bannon",
+    "inState": true
+  },
+  {
+    "slug": "Oceansprings",
+    "name": "Ocean Springs",
+    "inState": true
+  },
+  {
+    "slug": "Okolona",
+    "name": "Okolona",
+    "inState": true
+  },
+  {
+    "slug": "Olddominionchristian",
+    "name": "Old Dominion Christian",
+    "inState": true
+  },
+  {
+    "slug": "Olivebranch",
+    "name": "Olive Branch",
+    "inState": true
+  },
+  {
+    "slug": "Oxford",
+    "name": "Oxford",
+    "inState": true
+  },
+  {
+    "slug": "Palmer",
+    "name": "Palmer",
+    "inState": true
+  },
+  {
+    "slug": "Parklaneacademy",
+    "name": "Parklane Academy",
+    "inState": true
+  },
+  {
+    "slug": "Parkplacechristianacademy",
+    "name": "Park Place Christian Academy",
+    "inState": true
+  },
+  {
+    "slug": "Pascagoula",
+    "name": "Pascagoula",
+    "inState": true
+  },
+  {
+    "slug": "Passchristian",
+    "name": "Pass Christian",
+    "inState": true
+  },
+  {
+    "slug": "Pearl",
+    "name": "Pearl",
+    "inState": true
+  },
+  {
+    "slug": "Pearlrivercentral",
+    "name": "Pearl River Central",
+    "inState": true
+  },
+  {
+    "slug": "Pelahatchie",
+    "name": "Pelahatchie",
+    "inState": true
+  },
+  {
+    "slug": "Perrycentral",
+    "name": "Perry Central",
+    "inState": true
+  },
+  {
+    "slug": "Petal",
+    "name": "Petal",
+    "inState": true
+  },
+  {
+    "slug": "Philadelphia",
+    "name": "Philadelphia",
+    "inState": true
+  },
+  {
+    "slug": "Picayune",
+    "name": "Picayune",
+    "inState": true
+  },
+  {
+    "slug": "Pillowacademy",
+    "name": "Pillow Academy",
+    "inState": true
+  },
+  {
+    "slug": "Pinehillsacademy",
+    "name": "Pine Hills Academy",
+    "inState": true
+  },
+  {
+    "slug": "Pisgah",
+    "name": "Pisgah",
+    "inState": true
+  },
+  {
+    "slug": "Plaindealingchristianacademyla",
+    "name": "Plain Dealing Christian Academy\n  (LA)",
+    "inState": true
+  },
+  {
+    "slug": "Pontotoc",
+    "name": "Pontotoc",
+    "inState": true
+  },
+  {
+    "slug": "Poplarville",
+    "name": "Poplarville",
+    "inState": true
+  },
+  {
+    "slug": "Porterschapelacademy",
+    "name": "Porter's Chapel Academy",
+    "inState": true
+  },
+  {
+    "slug": "Portgibson",
+    "name": "Port Gibson",
+    "inState": true
+  },
+  {
+    "slug": "Pottscamp",
+    "name": "Potts Camp",
+    "inState": true
+  },
+  {
+    "slug": "Prairieviewacademyla",
+    "name": "Prairie View Academy (LA)",
+    "inState": true
+  },
+  {
+    "slug": "Prentiss",
+    "name": "Prentiss",
+    "inState": true
+  },
+  {
+    "slug": "Prentisschristian",
+    "name": "Prentiss Christian",
+    "inState": true
+  },
+  {
+    "slug": "Presbyterianchristian",
+    "name": "Presbyterian Christian",
+    "inState": true
+  },
+  {
+    "slug": "Provine",
+    "name": "Provine",
+    "inState": true
+  },
+  {
+    "slug": "Puckett",
+    "name": "Puckett",
+    "inState": true
+  },
+  {
+    "slug": "Purvis",
+    "name": "Purvis",
+    "inState": true
+  },
+  {
+    "slug": "Quitman",
+    "name": "Quitman",
+    "inState": true
+  },
+  {
+    "slug": "Raleigh",
+    "name": "Raleigh",
+    "inState": true
+  },
+  {
+    "slug": "Raymond",
+    "name": "Raymond",
+    "inState": true
+  },
+  {
+    "slug": "Rebulacademy",
+    "name": "Rebul Academy",
+    "inState": true
+  },
+  {
+    "slug": "Resurrection",
+    "name": "Resurrection",
+    "inState": true
+  },
+  {
+    "slug": "Richland",
+    "name": "Richland",
+    "inState": true
+  },
+  {
+    "slug": "Richton",
+    "name": "Richton",
+    "inState": true
+  },
+  {
+    "slug": "Ridgeland",
+    "name": "Ridgeland",
+    "inState": true
+  },
+  {
+    "slug": "Ripley",
+    "name": "Ripley",
+    "inState": true
+  },
+  {
+    "slug": "Riverdaleacademyla",
+    "name": "Riverdale Academy (LA)",
+    "inState": true
+  },
+  {
+    "slug": "Riverfieldacademyla",
+    "name": "Riverfield Academy (LA)",
+    "inState": true
+  },
+  {
+    "slug": "Riveroaksla",
+    "name": "River Oaks (LA)",
+    "inState": true
+  },
+  {
+    "slug": "Riverside",
+    "name": "Riverside",
+    "inState": true
+  },
+  {
+    "slug": "Rollingfork",
+    "name": "Rolling Fork",
+    "inState": true
+  },
+  {
+    "slug": "Rosafort",
+    "name": "Rosa Fort",
+    "inState": true
+  },
+  {
+    "slug": "Rossvillechristianacademytn",
+    "name": "Rossville Christian Academy (TN)",
+    "inState": true
+  },
+  {
+    "slug": "Rulevillecentral",
+    "name": "Ruleville Central",
+    "inState": true
+  },
+  {
+    "slug": "Runnelstown",
+    "name": "Runnelstown",
+    "inState": true
+  },
+  {
+    "slug": "Russellchristianacademy",
+    "name": "Russell Christian Academy",
+    "inState": true
+  },
+  {
+    "slug": "Sacredheart",
+    "name": "Sacred Heart",
+    "inState": true
+  },
+  {
+    "slug": "Saintaloysius",
+    "name": "Saint Aloysius",
+    "inState": true
+  },
+  {
+    "slug": "Saintandrewsepiscopal",
+    "name": "Saint Andrew's Episcopal",
+    "inState": true
+  },
+  {
+    "slug": "Saintjohn",
+    "name": "Saint John",
+    "inState": true
+  },
+  {
+    "slug": "Saintjosephgreenville",
+    "name": "Saint Joseph (Greenville)",
+    "inState": true
+  },
+  {
+    "slug": "Saintjosephmadison",
+    "name": "Saint Joseph (Madison)",
+    "inState": true
+  },
+  {
+    "slug": "Saintmartin",
+    "name": "Saint Martin",
+    "inState": true
+  },
+  {
+    "slug": "Saintpatrick",
+    "name": "Saint Patrick",
+    "inState": true
+  },
+  {
+    "slug": "Saintstanislaus",
+    "name": "Saint Stanislaus",
+    "inState": true
+  },
+  {
+    "slug": "Salem",
+    "name": "Salem",
+    "inState": true
+  },
+  {
+    "slug": "Saltillo",
+    "name": "Saltillo",
+    "inState": true
+  },
+  {
+    "slug": "Sandhill",
+    "name": "Sand Hill",
+    "inState": true
+  },
+  {
+    "slug": "Scottcentral",
+    "name": "Scott Central",
+    "inState": true
+  },
+  {
+    "slug": "Sebastopol",
+    "name": "Sebastopol",
+    "inState": true
+  },
+  {
+    "slug": "Seminary",
+    "name": "Seminary",
+    "inState": true
+  },
+  {
+    "slug": "Senatobia",
+    "name": "Senatobia",
+    "inState": true
+  },
+  {
+    "slug": "Shannon",
+    "name": "Shannon",
+    "inState": true
+  },
+  {
+    "slug": "Sharkeyissaquenaacademy",
+    "name": "Sharkey-Issaquena Academy",
+    "inState": true
+  },
+  {
+    "slug": "Shaw",
+    "name": "McEvans",
+    "inState": true
+  },
+  {
+    "slug": "Sillimanla",
+    "name": "Silliman (LA)",
+    "inState": true
+  },
+  {
+    "slug": "Simmons",
+    "name": "Simmons",
+    "inState": true
+  },
+  {
+    "slug": "Simpsoncentral",
+    "name": "Simpson Central",
+    "inState": true
+  },
+  {
+    "slug": "Simpsoncountyacademy",
+    "name": "Simpson County Academy",
+    "inState": true
+  },
+  {
+    "slug": "Smithville",
+    "name": "Smithville",
+    "inState": true
+  },
+  {
+    "slug": "Southaven",
+    "name": "Southaven",
+    "inState": true
+  },
+  {
+    "slug": "Southdelta",
+    "name": "South Delta",
+    "inState": true
+  },
+  {
+    "slug": "Southeastlauderdale",
+    "name": "Southeast Lauderdale",
+    "inState": true
+  },
+  {
+    "slug": "Southjones",
+    "name": "South Jones",
+    "inState": true
+  },
+  {
+    "slug": "Southnatchez",
+    "name": "South Natchez",
+    "inState": true
+  },
+  {
+    "slug": "Southpanola",
+    "name": "South Panola",
+    "inState": true
+  },
+  {
+    "slug": "Southpike",
+    "name": "South Pike",
+    "inState": true
+  },
+  {
+    "slug": "Southpontotoc",
+    "name": "South Pontotoc",
+    "inState": true
+  },
+  {
+    "slug": "Starkville",
+    "name": "Starkville",
+    "inState": true
+  },
+  {
+    "slug": "Starkvilleacademy",
+    "name": "Starkville Academy",
+    "inState": true
+  },
+  {
+    "slug": "Stateline",
+    "name": "State Line",
+    "inState": true
+  },
+  {
+    "slug": "Stone",
+    "name": "Stone",
+    "inState": true
+  },
+  {
+    "slug": "Strayhorn",
+    "name": "Strayhorn",
+    "inState": true
+  },
+  {
+    "slug": "Strideracademy",
+    "name": "Strider Academy",
+    "inState": true
+  },
+  {
+    "slug": "Stringer",
+    "name": "Stringer",
+    "inState": true
+  },
+  {
+    "slug": "Sturgis",
+    "name": "Sturgis",
+    "inState": true
+  },
+  {
+    "slug": "Sumrall",
+    "name": "Sumrall",
+    "inState": true
+  },
+  {
+    "slug": "Sylvabayacademy",
+    "name": "Sylva Bay Academy",
+    "inState": true
+  },
+  {
+    "slug": "Tallulahacademyla",
+    "name": "Tallulah Academy (LA)",
+    "inState": true
+  },
+  {
+    "slug": "Taylorsville",
+    "name": "Taylorsville",
+    "inState": true
+  },
+  {
+    "slug": "Tensasacademyla",
+    "name": "Tensas Academy (LA)",
+    "inState": true
+  },
+  {
+    "slug": "Terry",
+    "name": "Terry",
+    "inState": true
+  },
+  {
+    "slug": "Terryi",
+    "name": "Terry (Old)",
+    "inState": true
+  },
+  {
+    "slug": "Thomastown",
+    "name": "Thomastown",
+    "inState": true
+  },
+  {
+    "slug": "Thrasher",
+    "name": "Thrasher",
+    "inState": true
+  },
+  {
+    "slug": "Tishomingo",
+    "name": "Tishomingo",
+    "inState": true
+  },
+  {
+    "slug": "Tishomingocounty",
+    "name": "Tishomingo County",
+    "inState": true
+  },
+  {
+    "slug": "Topekatilton",
+    "name": "Topeka-Tilton",
+    "inState": true
+  },
+  {
+    "slug": "Tricountyacademy",
+    "name": "Tri-County Academy",
+    "inState": true
+  },
+  {
+    "slug": "Trinityepiscopal",
+    "name": "Trinity Episcopal",
+    "inState": true
+  },
+  {
+    "slug": "Tunicaacademy",
+    "name": "Tunica Academy",
+    "inState": true
+  },
+  {
+    "slug": "Tupelo",
+    "name": "Tupelo",
+    "inState": true
+  },
+  {
+    "slug": "Tupelochristianprep",
+    "name": "Tupelo Christian Prep",
+    "inState": true
+  },
+  {
+    "slug": "Tylertown",
+    "name": "Tylertown",
+    "inState": true
+  },
+  {
+    "slug": "Union",
+    "name": "Union",
+    "inState": true
+  },
+  {
+    "slug": "Unionacademy",
+    "name": "Union Academy",
+    "inState": true
+  },
+  {
+    "slug": "Unionchristianacademyla",
+    "name": "Union Christian Academy (LA)",
+    "inState": true
+  },
+  {
+    "slug": "Unioncounty",
+    "name": "Union County",
+    "inState": true
+  },
+  {
+    "slug": "Unitychristianacademy",
+    "name": "Unity Christian Academy",
+    "inState": true
+  },
+  {
+    "slug": "Universityacademyofcenlala",
+    "name": "University Academy of Cenla (LA)",
+    "inState": true
+  },
+  {
+    "slug": "Universitychristian",
+    "name": "University Christian",
+    "inState": true
+  },
+  {
+    "slug": "Universitychristianprepla",
+    "name": "University Christian Prep (LA)",
+    "inState": true
+  },
+  {
+    "slug": "Utica",
+    "name": "Utica",
+    "inState": true
+  },
+  {
+    "slug": "Vancleave",
+    "name": "Vancleave",
+    "inState": true
+  },
+  {
+    "slug": "Vardaman",
+    "name": "Vardaman",
+    "inState": true
+  },
+  {
+    "slug": "Velmajackson",
+    "name": "Velma Jackson",
+    "inState": true
+  },
+  {
+    "slug": "Veritas",
+    "name": "Veritas",
+    "inState": true
+  },
+  {
+    "slug": "Vicksburg",
+    "name": "Vicksburg",
+    "inState": true
+  },
+  {
+    "slug": "Victorychristianacademy",
+    "name": "Victory Christian Academy",
+    "inState": true
+  },
+  {
+    "slug": "Walnut",
+    "name": "Walnut",
+    "inState": true
+  },
+  {
+    "slug": "Warrencentral",
+    "name": "Warren Central",
+    "inState": true
+  },
+  {
+    "slug": "Washington",
+    "name": "Washington",
+    "inState": true
+  },
+  {
+    "slug": "Watervalley",
+    "name": "Water Valley",
+    "inState": true
+  },
+  {
+    "slug": "Wayneacademy",
+    "name": "Wayne Academy",
+    "inState": true
+  },
+  {
+    "slug": "Waynecounty",
+    "name": "Wayne County",
+    "inState": true
+  },
+  {
+    "slug": "Waynesborocentral",
+    "name": "Waynesboro Central",
+    "inState": true
+  },
+  {
+    "slug": "Weir",
+    "name": "Weir",
+    "inState": true
+  },
+  {
+    "slug": "Wesson",
+    "name": "Wesson",
+    "inState": true
+  },
+  {
+    "slug": "Westbolivar",
+    "name": "West Bolivar",
+    "inState": true
+  },
+  {
+    "slug": "Westharrison",
+    "name": "West Harrison",
+    "inState": true
+  },
+  {
+    "slug": "Westjones",
+    "name": "West Jones",
+    "inState": true
+  },
+  {
+    "slug": "Westkemper",
+    "name": "West Kemper",
+    "inState": true
+  },
+  {
+    "slug": "Westlauderdale",
+    "name": "West Lauderdale",
+    "inState": true
+  },
+  {
+    "slug": "Westlincoln",
+    "name": "West Lincoln",
+    "inState": true
+  },
+  {
+    "slug": "Westlowndes",
+    "name": "West Lowndes",
+    "inState": true
+  },
+  {
+    "slug": "Westmarion",
+    "name": "West Marion",
+    "inState": true
+  },
+  {
+    "slug": "Westmemphischristianar",
+    "name": "West Memphis Christian (AR)",
+    "inState": true
+  },
+  {
+    "slug": "Westoktibbehacounty",
+    "name": "West Oktibbeha County",
+    "inState": true
+  },
+  {
+    "slug": "Weston",
+    "name": "Weston",
+    "inState": true
+  },
+  {
+    "slug": "Westpoint",
+    "name": "West Point",
+    "inState": true
+  },
+  {
+    "slug": "Westtallahatchie",
+    "name": "West Tallahatchie",
+    "inState": true
+  },
+  {
+    "slug": "Wheeler",
+    "name": "Wheeler",
+    "inState": true
+  },
+  {
+    "slug": "Wilkinsoncounty",
+    "name": "Wilkinson County",
+    "inState": true
+  },
+  {
+    "slug": "Wilkinsoncountychristianacademy",
+    "name": "Wilkinson County Christian Academy",
+    "inState": true
+  },
+  {
+    "slug": "Williamssullivan",
+    "name": "Williams-Sullivan",
+    "inState": true
+  },
+  {
+    "slug": "Winans",
+    "name": "Winans",
+    "inState": true
+  },
+  {
+    "slug": "Wingfield",
+    "name": "Wingfield",
+    "inState": true
+  },
+  {
+    "slug": "Winona",
+    "name": "Winona",
+    "inState": true
+  },
+  {
+    "slug": "Winonachristian",
+    "name": "Winona Christian",
+    "inState": true
+  },
+  {
+    "slug": "Winstonacademy",
+    "name": "Winston Academy",
+    "inState": true
+  },
+  {
+    "slug": "Yazoocity",
+    "name": "Yazoo City",
+    "inState": true
+  },
+  {
+    "slug": "Yazoocounty",
+    "name": "Yazoo County",
+    "inState": true
+  }
+]
