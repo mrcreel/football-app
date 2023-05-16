@@ -1,8 +1,9 @@
 import 'reflect-metadata'
 
-import { AppDataSource } from './data-source'
+import { AppDataSource } from '../utils/data-source'
 
-import { seasonsData } from '../../scraper/rawData/exports.js'
+// import { seasonsData } from '../../../scraper/rawData/exports.js'
+import { seasonsData } from '../../../scraper/rawData/exports'
 import { Season } from './entity/Season'
 
 const main = async () => {

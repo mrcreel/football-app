@@ -1,4 +1,6 @@
-const { DateTime } = require("luxon")
+const {
+  DateTime
+} = require("luxon")
 const cheerio = require('cheerio')
 const {
   cleanText,
@@ -8,8 +10,8 @@ const {
 } = require('./functions')
 
 const schoolsData = require('./rawData/schools.json')
-const schoolUrls = extractValue(schoolsData, 'url')
-const pages = schoolUrls.map(url => `/Teams/${url}_Scores.htm`)
+const schoolSlugs = extractValue(schoolsData, 'slug')
+const pages = schoolSlugs.map(slug => `/Teams/${slug}_Scores.htm`)
 
 const gamesData = []
 
@@ -28,8 +30,8 @@ getAllData(pages)
             const siblings = $(element).nextAll()
 
             gamesRawData.push({
-              gameDate: DateTime.fromFormat($(element).text(), "mm/dd/yy").toLocaleString(DateTime.DATE_SHORT),
-              // gameDate: $(element).text(),
+              // gameDate: DateTime.fromFormat($(element).text(), "mm/dd/yy").toLocaleString(DateTime.DATE_SHORT),
+              gameDate: $(element).text(),
               gameLocation: $(siblings[0]).text().trim(),
               gameOpponent: cleanText($(siblings[1])),
               gameisDistrictGame: $(siblings[2]).text().trim() == '*',
@@ -80,13 +82,13 @@ getAllData(pages)
               if (gamesRawData[(row * 64) + (gm * 4) + col].gameDate == "Invalid DateTime") {
                 gamesRawData[(row * 64) + (gm * 4) + col].gameDate = ''
               }
-              console.log(`Writing ${schoolUrls[c]}`)
+              console.log(`Writing ${schoolSlugs[c]}`)
               gamesData.push({
                 gameSeason: parseInt(seasonsYears[row * 4 + col]),
                 gameSeasonWeek: gm + 1,
                 gameDate: gamesRawData[(row * 64) + (gm * 4) + col].gameDate,
                 gameTeamName: seasonsTeamNames[row * 4 + col],
-                gameTeamUrl: schoolUrls[c],
+                gameTeamSlug: schoolSlugs[c],
                 gameTeamMascot: seasonsTeamMascots[row * 4 + col],
                 gameLocation: gamesRawData[(row * 64) + (gm * 4) + col].gameLocation,
                 gameOpponentName: gamesRawData[(row * 64) + (gm * 4) + col].gameOpponent,
