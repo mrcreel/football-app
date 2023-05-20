@@ -7,7 +7,7 @@ const {
   gamesData
 } = require( '../scraper/rawData/exports' )
 
-const MONGO_URI_v0 = process.env.MONGO_URI_v0
+const MONGO_URI = process.env.MONGO_URI_v0
 
 const schoolSchema = new mongoose.Schema( {
   slug: String,
@@ -52,9 +52,9 @@ const gameSchema = new mongoose.Schema( {
 const Game = mongoose.model( 'Game', gameSchema )
 
 const main = async () => {
-  await mongoose.connect( MONGO_URI_v0, { useNewUrlParser: true, useUnifiedTopology: true, } )
+  await mongoose.connect( MONGO_URI+'v0?retryWrites=true&w=majority', { useNewUrlParser: true, useUnifiedTopology: true, } )
 
-  
+
   await schoolsData.map(async schoolData => {
     const school = new School({
       slug: schoolData.slug,
