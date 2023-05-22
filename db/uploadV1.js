@@ -38,14 +38,16 @@ const main = async () => {
   } )
   const Season = v1.model( 'Season', seasonV1Schema )
 
+  schoolsV1 = schoolsV1.slice(0,2)
 
   schoolsV1.map( async ( school, idx ) => {
     const slug = school.slug
     const seasons = await getSeasonsForSchool( slug )
-    console.log(`${slug}: ${seasons.length}`)
     seasons.map( async ( seasonData, idx ) => {
       const games = await getGamesForSchoolBySeason( slug, seasonData.season )
       if ( games[ 0 ] !== undefined ) {
+        console.log(`${slug}(${seasonData.season}): ${games.length}`)
+      /*
         const season = {}
         season.slug = seasonData.slug
         season.season = seasonData.season
@@ -53,11 +55,12 @@ const main = async () => {
         season.name = games[ 0 ].gameTeamName
         season.mascot = games[ 0 ].gameTeamMascot
         const newSeason = new Season( season )
-        await newSeason.save()
+        // await newSeason.save()
+        */
       }
     } )
   } )
-
+  
   // uploadSchools()
 }
 
