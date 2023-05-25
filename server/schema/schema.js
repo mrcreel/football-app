@@ -12,7 +12,9 @@ const {
   GraphQLBoolean,
   GraphQLID,
   GraphQLList,
-  GraphQLObjectType,
+  GraphQLObjectType,              "gameSeasonWeek": 4,
+  "gameSeasonWeek": 4,
+
   GraphQLSchema,
   GraphQLString,
   GraphQLInt,
@@ -26,13 +28,15 @@ const GameType = new GraphQLObjectType({
     gameSeason: {
       type: SeasonType,
       resolve(parent, args){
-        return seasonsData.find(season => season.slug === parent.gameTeamSlug && season.season === parent.gameSeason)
+        const season = parent.gameSeason
+        const slug = parent.gameTeamSlug
+        return Season.findOne({slug, season})
       }
     },
     gameSeasonWeek: {type: GraphQLInt},
     gameDate: {type: GraphQLString},
     gameTeamName: {type: GraphQLString},
-    gameTeamSlug: {type: GraphQLString},
+    gameTeamSlug: {type: GraphQLID},
     gameTeamMascot: {type: GraphQLString},
     gameLocation: {
       type: GraphQLString,
@@ -59,7 +63,8 @@ const SchoolType = new GraphQLObjectType( {
     seasons: {
       type: new GraphQLList(SeasonType),
       resolve(parent, args){
-        return seasonsData.filter(season => season.slug === parent.slug)
+        const slug = parent.slug
+        return Season.find({slug})
       }
     }
   } )
@@ -73,7 +78,16 @@ const SeasonType = new GraphQLObjectType( {
     slug: {
       type: SchoolType,
       resolve(parent, args){
-        return schoolsData.find(school => school.slug === parent.slug)
+        const slug = parent.slug
+        return School.findOne({slug})
+      }
+    },
+    games: {
+      type: new GraphQLList(GameType),
+      resolve(parent, args){
+        const gameSeason = parent.season
+        const gameTeamSlug = parent.slug
+        return Game.find({gameSeason, gameTeamSlug})
       }
     },
     district: {type: GraphQLString},
@@ -99,6 +113,18 @@ const RootQuery = new GraphQLObjectType( {
       type: new GraphQLList( GameType ),
       resolve ( parent, args ) {
         return Game.find()
+      }
+    },
+    gamesBySchoolAndSeason:{
+      type: new GraphQLList(GameType),
+      args: {
+        gameTeamSlug: { type: GraphQLID },
+        gameSeason: {type: GraphQLInt},
+      },
+      resolve(parent, args){
+        const gameSeason = args.gameSeason
+        const gameTeamSlug = args.gameTeamSlug
+        return Game.find({gameTeamSlug, gameSeason})
       }
     },
     schools: {
